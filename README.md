@@ -2,6 +2,7 @@ Knots!
 
 Under the utils folder there is a file named knot_builder_plus.py, which is the plus-shaped block version of the knot builder code.
 knot_builder_simplified.py is the simplified block option. 
+
 Each of these files will give an isomorphism signiture for the regina GUI to use. Note that if you wish to use the knot edges, they will only work in the origional triangulation. So, if you are using the isomorphism signiture, the knot edges will be indexed differently.
 
 
